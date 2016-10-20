@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Yes_or_No1.unity
+  isLoaded: 1
+  isActive: 1
