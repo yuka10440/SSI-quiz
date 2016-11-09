@@ -174,7 +174,8 @@
     <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
     <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
     <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
-    <Compile Include="Assets\TapButton.cs" />
+    <Compile Include="Assets\Scripts\ButtonToggle.cs" />
+    <Compile Include="Assets\Scripts\TapButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LeapMotion\DemoResources\ScrollerText.txt" />
